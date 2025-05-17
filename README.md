@@ -1,4 +1,4 @@
-# Collaborative Drawing Canvas 🎨
+# Shared Drawing Canvas 🎨
 
 A real-time collaborative drawing application with client-server architecture, allowing multiple users to draw on a shared canvas simultaneously.
 
@@ -34,19 +34,19 @@ A real-time collaborative drawing application with client-server architecture, a
    java DrawServer.java
    ```
 
-1. **Start the client**:
+2. **Start the client**:
 
-```bash
-java DrawClient.java
-```
+   ```bash
+   java DrawClient.java
+   ```
 
 ## Usage Instructions
 
-- 1. Launch the server first
-- 2. Launch one or more client instances
-- 3. On each client:
-     Set your username
-     Select drawing color
-     Toggle eraser mode if needed
-     Draw by clicking and dragging
-     Use "Clear" button to reset canvas
+1. Launch the server first
+2. Launch one or more client instances
+3. On each client:
+   - Set your username
+   - Select drawing colo
+   - Toggle eraser mode if needed
+   - Draw by clicking and dragging
+   - Use "Clear" button to reset canvas
