@@ -46,7 +46,11 @@ A real-time collaborative drawing application with client-server architecture, a
 2. Launch one or more client instances
 3. On each client:
    - Set your username
-   - Select drawing colo
+   - Select drawing color
    - Toggle eraser mode if needed
    - Draw by clicking and dragging
    - Use "Clear" button to reset canvas
+
+## Example Output
+
+![Output Screenshot](images/output.png)
